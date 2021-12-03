@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/activity_main.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_01.xml" value="0.18" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_02.xml" value="0.33" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_03.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_04.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_05-1.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_05.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_05_01.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_06.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_07.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_10.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_11.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_12.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_13.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_14.xml" value="0.25" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_18.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_19.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_5-4.xml" value="0.1" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_5-4_linear.xml" value="0.25" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_5_1.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_5_2.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_5_4_linear.xml" value="0.15577507598784193" />
+        <entry key="..\:/Users/sdh64/AndroidStudioProjects/ch05/app/src/main/res/layout/ex05_5_4_relative.xml" value="0.15780141843971632" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
